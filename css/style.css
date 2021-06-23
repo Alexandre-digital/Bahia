@@ -7,14 +7,78 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+header{
+
+
+    background-color: red;
+    padding: 25px;
+    height: 100px;
+    position:static;
+    text-align: center;
+
+    
+ }
+
 img{
     padding: 40px;
 }
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+div{
+    display:flex
+    
+    
+}
+    
+}
+ 
+ 
+ .time{
+    padding: 7px 45px;
+    background-color: black;
+    display:none;
+ }
+ 
+ .socio{ 
+    padding: 7px 45px;
+    background-color: lightskyblue;
+    display: inline;
+ 
+ }
+ 
+ .elenco{
+    padding: 7px 45px;
+    background-color: rgb(27, 13, 228);
+    display: inline;
+ }
+ 
+ .torcida{
+    padding: 7px 45px;
+    background-color: lightskyblue;
+    display: inline;
+ 
+ }
 
 main{
     text-align: center;
 
     
     
+}
+
+.whats{
+position: fixed;
+bottom: 1px;
+right: 1px;
+}
+
+footer{
+    text-align: center;
+    border-style: solid;
+    background-color: red;
+    color: white;
 }
 
